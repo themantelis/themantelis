@@ -10,10 +10,10 @@
 
 ### Projects
 
-#### OneSideRP.lt
+#### OneSide.LT
 * **FiveM Developer**
 * Custom UI, script optimization, and core server development.
 
-#### Vantarp.lt
+#### VantaRP.LT
 * **FiveM Developer**
 * Server management, bug fixes, and resource optimization.

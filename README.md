@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mantelis
 
-<!--
-**themantelis/themantelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## FiveM & Full-stack Developer
 
-Here are some ideas to get you started:
+✨ 3+ Years Experience
+🌍 Remote Work
+💻 5+ Servers Managed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+#### OneSideRP.lt
+* **FiveM Developer**
+* Custom UI, script optimization, and core server development.
+
+#### Vantarp.lt
+* **FiveM Developer**
+* Server management, bug fixes, and resource optimization.
